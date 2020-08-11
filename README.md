@@ -1,2 +1,2 @@
-# oop-php
-Apenas arquivos que usei no treinamento de PHP Orientado a Objetos da Alura
+# PHP Orientado a Objetos da Alura
+Apenas arquivos que usei no treinamento
